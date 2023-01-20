@@ -1,0 +1,14 @@
+List-> A list in Html is a collection of rows and columns havind some ordered data such as list of data of students in a class , or list of employes in a office.
+for example list of students in a class is as below
+
+S.No.	Name	   Roll No.	 Group
+1	Amit	      20	 yellow
+2	Sulekh	21	 red
+3	Ravinder	22	 green
+4	Vijesh	23	 yellow
+5	Vinay	      24	 red
+6	Aman	      25	 green
+7	Ritika	26	 red
+8	Saksham	27	 yellow
+
+

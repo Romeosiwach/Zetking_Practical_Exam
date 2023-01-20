@@ -1,0 +1,7 @@
+In this i have created a list of students in a class
+1. I have started with line one in which i have a taken a div
+2. Then I have taken a <table> tag
+3. Then I have taken a <thead> tag
+4. Then I have taken three <th></th> tags in which i have entered table headings such as Serial no, name, roll no, group
+5. Then i have taken <tr> tag
+6. In <tr> tag i have taken four <td> tag where i have entered data of individual student such and repeated the <td> tad as much time as much number of students i want to enter

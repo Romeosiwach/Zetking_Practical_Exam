@@ -1,0 +1,16 @@
+In this i have created two lists
+list 1
+This list is unordered list containing fruit names
+1. First i have taken <div> tag
+2. In which i have taken <h1> tag which contains heading line.
+3. then i have taken <ul> tag
+4. in which i have taken <li> tag in which i have entered fruits name
+each tag is provided whith class and styled using css property
+
+list2
+This list is unordered list containing week names
+1. First i have taken <div> tag
+2. In which i have taken <h1> tag which contains heading line.
+3. then i have taken <ol> tag
+4. in which i have taken <li> tag in which i have entered fruits name
+each tag is provided whith class and styled using css property
